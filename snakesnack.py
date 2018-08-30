@@ -1,5 +1,6 @@
 #importing pygame module,random function,sys
 import random, pygame, sys
+#the following line is optional since we have already imported the pygame module.
 from pygame.locals import*
 FPS=5
 #specifying the size of screen
